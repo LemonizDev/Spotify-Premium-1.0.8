@@ -4,7 +4,7 @@ mode con: cols=60 lines=10
 title -Script to block Spotify advertising-
 echo +++++++++++++++++++++++++++++++++++++++++++++++++
 echo + -Script to remove ads from Spotify- +
-echo + Made by Lemon +
+echo + Made by LemonizDev#2550 +
 echo +++++++++++++++++++++++++++++++++++++++++++++++++
 echo.
 echo.
