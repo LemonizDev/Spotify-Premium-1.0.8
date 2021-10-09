@@ -1,1 +1,36 @@
-"# Spotify-Premium-1.0.8" 
+# Spotify-Premium-1.0.8
+
+About Spotify:
+With Spotify, you can listen to millions of songs and podcasts for free! Listen to artists you love and enjoy music in Hindi, English, Tamil, Telugu, and many more languages.
+
+- Listen to your favourite song, artist, or album
+- Discover and listen to your favourite podcasts across Music, Educational, Games, Lifestyle & Health, and more
+- Make and share your own playlists
+- Choose your preferred languages for music
+- Find music for any mood, genre, or activity
+- Listen to your favourite songs on mobile, tablet, desktop, PlayStation, Chromecast, TV, and Speakers
+
+
+
+Features:
+-Below are some noticeable features which you’ll experience in Spotify.
+
+-Share songs instantly with anyone.
+-Preview music on iOS. 
+-Use private listening to hide your guilty pleasures. 
+-Make a playlist tailored to your running speed. 
+-Link to a specific part of a track.
+-Find out about live gigs. 
+-Listen to podcasts. 
+
+
+System Requirements For Spotify
+Before you start Spotify free download, make sure your PC meets minimum system requirements.
+
+    -Operating System: Windows 7/8/8.1/10.
+    -Memory (RAM): 650 MB of RAM required.
+    -Hard Disk Space: 212 MB of free space required.
+    -Processor: Intel Dual Core processor or later.
+
+
+Join my discord server [here](https://discord.com/invite/CAJWYQBf)
