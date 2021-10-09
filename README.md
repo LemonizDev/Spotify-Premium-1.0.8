@@ -35,7 +35,6 @@ Before you start Spotify free download, make sure your PC meets minimum system r
 - Processor: Intel Dual Core processor or later.
 
   <h3 align="center">Contact me on:</h3>
-  <p align="center">
-      <a href="https://discord.com/invite/CAJWYQBf"><img src="/icons/jdiscord.png" alt="Join my discord server"></a>
+      <a href="https://discord.com/invite/CAJWYQBf"><img src="/icons/discord.png" alt="Join my discord server"></a>
       <a href="https://www.youtube.com/channel/UCG5S7dAahbEapNavnN5-tmw"><img src="/icons/yt.png" alt="My youtube channel"></a>
   </p>
