@@ -29,10 +29,10 @@ Features:
 System Requirements For Spotify
 Before you start Spotify free download, make sure your PC meets minimum system requirements.
 
-    -Operating System: Windows 7/8/8.1/10.
-    -Memory (RAM): 650 MB of RAM required.
-    -Hard Disk Space: 212 MB of free space required.
-    -Processor: Intel Dual Core processor or later.
+-Operating System: Windows 7/8/8.1/10.
+-Memory (RAM): 650 MB of RAM required.
+-Hard Disk Space: 212 MB of free space required.
+-Processor: Intel Dual Core processor or later.
 
 
 [Join my discord](https://discord.com/invite/CAJWYQBf)
