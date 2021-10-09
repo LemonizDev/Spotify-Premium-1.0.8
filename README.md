@@ -36,6 +36,6 @@ Before you start Spotify free download, make sure your PC meets minimum system r
 
   <h3 align="center">Contact me on:</h3>
   <p align="center">
-      <a href="https://discord.com/invite/CAJWYQBf"><img src="/icons/discord.png" alt="Join my discord server" height = "100"></a>
+      <a href="https://discord.com/invite/CAJWYQBf"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" alt="Join my discord server" height = "120"></a>
       <a href="https://www.youtube.com/channel/UCG5S7dAahbEapNavnN5-tmw"><img src="/icons/yt.png" alt="My youtube channel" height= "130"></a>
   </p>
