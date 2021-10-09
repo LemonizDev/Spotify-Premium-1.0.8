@@ -34,5 +34,8 @@ Before you start Spotify free download, make sure your PC meets minimum system r
 -Hard Disk Space: 212 MB of free space required.
 -Processor: Intel Dual Core processor or later.
 
-
-[Join my discord](https://discord.com/invite/CAJWYQBf)
+  <h3 align="center">Contact me on:</h3>
+  <p align="center">
+      <a href="https://discord.com/invite/CAJWYQBf"><img src="/icons/jdiscord.png" alt="Join my discord server"></a>
+      <a href="https://www.youtube.com/channel/UCG5S7dAahbEapNavnN5-tmw"><img src="/icons/yt.png" alt="My youtube channel"></a>
+  </p>
