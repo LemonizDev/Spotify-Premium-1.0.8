@@ -1,5 +1,7 @@
 # Spotify-Premium-1.0.8
 
+## Welcome to Spotify-Premium 1.0.8, to learn how to use this script please watch this video
+
 About Spotify:
 With Spotify, you can listen to millions of songs and podcasts for free! Listen to artists you love and enjoy music in Hindi, English, Tamil, Telugu, and many more languages.
 
