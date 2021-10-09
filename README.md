@@ -3,7 +3,7 @@
 ## Welcome to Spotify-Premium 1.0.8, to learn how to use this script please watch this video
 
 About Spotify:
-With Spotify, you can listen to millions of songs and podcasts for free! Listen to artists you love and enjoy music in Hindi, English, Tamil, Telugu, and many more languages.
+With Spotify, you can listen to millions of songs and podcasts for free! Listen to artists you love and enjoy music in any language of your choice!
 
 - Listen to your favourite song, artist, or album
 - Discover and listen to your favourite podcasts across Music, Educational, Games, Lifestyle & Health, and more
@@ -35,4 +35,4 @@ Before you start Spotify free download, make sure your PC meets minimum system r
     -Processor: Intel Dual Core processor or later.
 
 
-Join my discord server [here](https://discord.com/invite/CAJWYQBf)
+[Join my discord](https://discord.com/invite/CAJWYQBf)
