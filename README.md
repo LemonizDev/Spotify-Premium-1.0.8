@@ -1,7 +1,13 @@
 # Spotify-Premium-1.0.8
 
-## Welcome to Spotify-Premium 1.0.8, to learn how to use this script please watch this video
+## Welcome to Spotify-Premium 1.0.8, to learn how to use this script please watch [this video](https://www.youtube.com/watch?v=ufhqnrbKpyU)
 
+### Join my discord:
+
+<a href="https://discord.com/invite/CAJWYQBf">
+    <img src="https://discordapp.com/api/guilds/737222740305641472/widget.png?style=shield" alt="Discord Server">
+  </a>
+  
 ### About Spotify:
 With Spotify, you can listen to millions of songs and podcasts for free! Listen to artists you love and enjoy music in any language of your choice!
 
@@ -35,6 +41,7 @@ Before you start Spotify free download, make sure your PC meets minimum system r
 - Processor: Intel Dual Core processor or later.
 
   <h3 align="center">Contact me on:</h3>
+  <p align="center">
   <p align="center">
       <a href="https://discord.com/invite/CAJWYQBf"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" alt="Join my discord server" height = "120"></a>
       <a href="https://www.youtube.com/channel/UCG5S7dAahbEapNavnN5-tmw"><img src="/icons/yt.png" alt="My youtube channel" height= "130"></a>
