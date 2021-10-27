@@ -2,7 +2,7 @@
 
 ## Welcome to Spotify-Premium 1.0.8, to learn how to use this script please watch [this video](https://www.youtube.com/watch?v=ufhqnrbKpyU)
 
-### Join my discord:
+### Join my discord server:
 
 <a href="https://discord.com/invite/CAJWYQBf">
     <img src="https://discordapp.com/api/guilds/737222740305641472/widget.png?style=shield" alt="Discord Server">
