@@ -1,14 +1,35 @@
-# Spotify-Premium-1.0.8
+<h1 align='center'> Spotify-Premium-1.0.8 </h1>
 
-## Welcome to Spotify-Premium 1.0.8, to learn how to use this script please watch [this video](https://www.youtube.com/watch?v=ufhqnrbKpyU)
+<h3 align = 'center'> Welcome to Spotify-Premium 1.0.8 </h3>
 
-### Join my discord server:
-
-<a href="https://discord.com/invite/CAJWYQBf">
+<p align = 'center'> <a href="https://discord.com/invite/CAJWYQBf">
     <img src="https://discordapp.com/api/guilds/737222740305641472/widget.png?style=shield" alt="Discord Server">
-  </a>
-  
-### About Spotify:
+  </a></p>
+
+
+## Instructions:
+
+**Step 1:** Uninstall the spotify you currently have (obvious step).
+
+**Step 2:** Open the `Spotify Installer.exe` file and wait for spotify to install.
+
+**Step 3:** Open the `Script_Spotify.bat` file and click on yes when the UAC prompt opens.
+
+**Step 4:** Hit `Windows + R`, type `appdata` and hit enter.
+
+**Step 5:** Open `Local > Spotify`
+
+**Step 6:** Create a new folder here called `Spotify`
+
+**Step 7:** Right click the folder you just created and click on properties.
+
+**Step 8:** Go to the security tab and click on edit.
+
+**Step 9:** Deny `Full Control` to each user/group and click `apply`.
+
+**Step 10:** Enjoy!
+   
+## About Spotify:
 With Spotify, you can listen to millions of songs and podcasts for free! Listen to artists you love and enjoy music in any language of your choice!
 
 - Listen to your favourite song, artist, or album
@@ -20,7 +41,7 @@ With Spotify, you can listen to millions of songs and podcasts for free! Listen 
 
 
 
-### Features:
+## Features:
 Below are some noticeable features which you’ll experience in Spotify.
 
 - Share songs instantly with anyone.
@@ -32,7 +53,7 @@ Below are some noticeable features which you’ll experience in Spotify.
 - Listen to podcasts. 
 
 
-### System Requirements For Spotify
+## System Requirements For Spotify
 Before you start Spotify free download, make sure your PC meets minimum system requirements.
 
 - Operating System: Windows 7/8/8.1/10.
@@ -40,9 +61,4 @@ Before you start Spotify free download, make sure your PC meets minimum system r
 - Hard Disk Space: 212 MB of free space required.
 - Processor: Intel Dual Core processor or later.
 
-  <h3 align="center">Contact me on:</h3>
-  <p align="center">
-  <p align="center">
-      <a href="https://discord.com/invite/CAJWYQBf"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" alt="Join my discord server" height = "120"></a>
-      <a href="https://www.youtube.com/channel/UCG5S7dAahbEapNavnN5-tmw"><img src="/icons/yt.png" alt="My youtube channel" height= "130"></a>
-  </p>
+ 
