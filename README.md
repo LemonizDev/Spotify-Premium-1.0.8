@@ -19,7 +19,7 @@
 
 **Step 5:** Open `Local > Spotify`
 
-**Step 6:** Create a new folder here called `Spotify`
+**Step 6:** Create a new folder here called `Update`
 
 **Step 7:** Right click the folder you just created and click on properties.
 
