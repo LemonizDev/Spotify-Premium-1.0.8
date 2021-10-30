@@ -61,4 +61,6 @@ Before you start Spotify free download, make sure your PC meets minimum system r
 - Hard Disk Space: 212 MB of free space required.
 - Processor: Intel Dual Core processor or later.
 
+
+<h1 align = 'center'> Thank you, don't forget to stargaze this repo if it helped you </h1>
  
