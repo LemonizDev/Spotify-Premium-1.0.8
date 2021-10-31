@@ -62,5 +62,5 @@ Before you start Spotify free download, make sure your PC meets minimum system r
 - Processor: Intel Dual Core processor or later.
 
 
-<h1 align = 'center'> Thank you, don't forget to stargaze this repo if it helped you </h1>
+<h1 align = 'center'> Thank you </h1>
  
