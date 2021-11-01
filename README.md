@@ -28,6 +28,10 @@
 **Step 9:** Deny `Full Control` to each user/group and click `apply`.
 
 **Step 10:** Enjoy!
+
+### IF THE `SCRIPT_SPOTIFY.bat` ISNT OPENING, PLEASE OPEN NOTEPAD > GO THE THE [SCRIPT'S CODE](https://github.com/LemonizDev/Spotify-Premium-1.0.8/blob/main/Script_Spotify.bat) > PASTE THE CODE IN NOTEPAD > HIT `Ctrl + S` AND SAVE THE FILE AS `Script_Spotify.bat`. After doing this, you can open the file you just created and follow the steps from `Step 4` 
+
+
    
 ## About Spotify:
 With Spotify, you can listen to millions of songs and podcasts for free! Listen to artists you love and enjoy music in any language of your choice!
