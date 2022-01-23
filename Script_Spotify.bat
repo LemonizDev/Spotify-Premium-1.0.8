@@ -13,7 +13,7 @@ TASKKILL /IM Spotify.exe /F 2> nul
 copy %SystemRoot%\system32\drivers\etc\hosts %SystemRoot%\system32\drivers\etc\hosts.backup
 echo. >>"%SystemRoot%\system32\drivers\etc\hosts"
 echo. >>"%SystemRoot%\system32\drivers\etc\hosts"
-echo #Bloqueo publicidad Spotify>>"%SystemRoot%\system32\drivers\etc\hosts"
+echo #Spotify Public Ads Blocker>>"%SystemRoot%\system32\drivers\etc\hosts"
 echo 0.0.0.0 adclick.g.doublecklick.net>>"%SystemRoot%\system32\drivers\etc\hosts"
 echo 0.0.0.0 googleads.g.doubleclick.net>>"%SystemRoot%\system32\drivers\etc\hosts"
 echo 0.0.0.0 http://www.googleadservices.com>>"%SystemRoot%\system32\drivers\etc\hosts"
