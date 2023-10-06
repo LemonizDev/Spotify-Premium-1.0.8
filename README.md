@@ -33,7 +33,9 @@
 
 
 ## Note (date: 06th oct 2023)
-I'm aware that the script has stopped working as newer versions of spotify have rolled out resulting in your playlists and profile not being shown. If you find yourself in this situation, please follow the instructions below: 
+I'm aware that the script has stopped working as newer versions of spotify have rolled out resulting in your playlists and profile not being shown. If you find yourself in this situation, please follow the instructions below:
+
+path: %SystemRoot%\system32\drivers\etc\hosts
 
 ## About Spotify:
 With Spotify, you can listen to millions of songs and podcasts for free! Listen to artists you love and enjoy music in any language of your choice!
