@@ -39,7 +39,8 @@ path: ```%SystemRoot%\system32\drivers\etc\hosts```
 
 Replacement lines:
 
-```0.0.0.0 adclick.g.doublecklick.net
+```
+0.0.0.0 adclick.g.doublecklick.net
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 http://www.googleadservices.com
 0.0.0.0 pubads.g.doubleclick.net
