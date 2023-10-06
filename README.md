@@ -35,14 +35,16 @@
 ## Note (date: 06th oct 2023): How to stop using the script
 I'm aware that the script has stopped working as newer versions of spotify have rolled out resulting in your playlists and profile not being shown. If you find yourself in this situation, please follow the instructions below:
 
-path: %SystemRoot%\system32\drivers\etc\hosts
+path: ```%SystemRoot%\system32\drivers\etc\hosts```
+
 Replacement lines:
-0.0.0.0 adclick.g.doublecklick.net
+
+```0.0.0.0 adclick.g.doublecklick.net
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 http://www.googleadservices.com
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
-
+```
 ## About Spotify:
 With Spotify, you can listen to millions of songs and podcasts for free! Listen to artists you love and enjoy music in any language of your choice!
 
