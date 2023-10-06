@@ -35,7 +35,7 @@
 ## Note (date: 06th oct 2023): How to stop using the script
 I'm aware that the script has stopped working as newer versions of spotify have rolled out resulting in your playlists and profile not being shown. If you find yourself in this situation, please follow the instructions below:
 
-path: ```%SystemRoot%\system32\drivers\etc\hosts```
+path: ```%SystemRoot%\system32\drivers\etc\```
 
 Replacement lines:
 
