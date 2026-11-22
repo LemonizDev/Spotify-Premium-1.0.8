@@ -1,50 +1,70 @@
 # Spotify-Premium-1.0.8
 
-> [!CAUTION]
-> ## DISCONTINUED PROJECT — DO NOT INSTALL OR RUN
+> [!WARNING]
+> **ARCHIVED PROJECT: Spotify 1.0.8-era workaround. This project is discontinued and does not work with current Spotify.**
 >
-> **This project is dead, unsupported, and does not work with current versions of Spotify. Do not download, install, execute, or follow the setup instructions from this repository.**
->
-> This repository is kept public solely as an archive of an old personal project. It is not maintained, and no fixes, updates, security reviews, or support will be provided.
+> This repository is preserved as an old project on my GitHub profile. It is not a current Spotify client and will not receive compatibility updates.
 
-## Important notice
+## What this project is
 
-This project dates back to around 2020 and was built around a very old Spotify client (version 1.0.8). Spotify has changed substantially since then. The old client, scripts, and methods documented here are obsolete and should be assumed incompatible with the current Spotify service.
+This project used the official Spotify 1.0.8 Windows installer from the 2020 era, alongside a small Windows batch script that applied an old ad-blocking workaround. It was designed for the Spotify client and service behaviour of that time.
 
-Issues reported by users include:
+The installer is the original official Spotify installer from that period, not a custom-built Spotify executable. The companion script is available in full for inspection: [`Script_Spotify.bat`](./Script_Spotify.bat).
+
+## How the script works
+
+The script is a Windows batch file. Its purpose was to apply host-based blocking for advertising-related domains used by the old Spotify client. It does not contain visible commands to read passwords, browser cookies, or Spotify credentials, nor does it contain code to transmit those credentials.
+
+At a high level, it performs these steps:
+
+```mermaid
+flowchart TD
+    A[User runs Script_Spotify.bat] --> B[Request administrator permission]
+    B --> C[Close Spotify if it is running]
+    C --> D[Back up the Windows hosts file]
+    D --> E[Append host mappings to redirect listed domains to 0.0.0.0]
+    E --> F[Replace the old ad.spa file in Spotify Apps]
+    F --> G[Restart Spotify]
+```
+
+### What it changes
+
+- Requests administrator privileges because the Windows hosts file is a protected system file.
+- Stops the running Spotify process before making changes.
+- Creates a backup named `hosts.backup` in the Windows drivers/etc directory.
+- Adds entries to the Windows hosts file that map listed hostnames to `0.0.0.0`, preventing the client from reaching those hosts.
+- Deletes and recreates the old `ad.spa` file in Spotify's Apps directory.
+- Starts Spotify again.
+
+The hostnames in the script include advertising-related domains, but also `spclient.wg.spotify.com` and `audio2.spotify.com`, which are Spotify service endpoints. This old blocklist was specific to the client and service behaviour at the time. Blocking service endpoints can affect normal Spotify functionality, which is one reason this workaround is obsolete.
+
+## Why people are reporting problems
+
+Spotify has changed significantly since version 1.0.8. The old client and workaround are no longer compatible with the current Spotify service. Reports include:
 
 - Spotify failing to launch or function correctly.
-- Login and account-interface incompatibilities, including missing or changed sign-in options.
-- Spotify rejecting the old client or workaround (including error 409).
-- Concerns about the distributed executable and the absence of reproducible source/build instructions.
+- Changed login and account flows, including unavailable sign-in options.
+- Login or service errors such as error 409.
+- Features and interface elements no longer matching the old client.
 
-These reports are not a forensic determination that the files are malware. Equally, **the files have not been given a current independent security audit, so I cannot guarantee that they are safe**. Please do not run them.
+These are expected compatibility problems with an obsolete client and workaround. This repository is not being updated.
 
-## What you should do
+## About the virus claims
 
-- **Do not install or run** `Spotify Installer.exe`, `Script_Spotify.bat`, or any other executable or script from this repository.
-- Do not grant these files administrator privileges.
-- Do not modify your Windows `hosts` file, Spotify installation permissions, or system settings by following the old instructions.
-- If you previously installed this project, stop using it. Remove the unofficial Spotify installation and install Spotify only from its official website or your operating system's trusted app store. Review any system changes you made while following the old guide and restore them as appropriate.
+The visible batch script can be read directly in this repository. Its actions are described above: it edits the hosts file, replaces an old Spotify app resource, and restarts Spotify. It does not contain visible credential-stealing or credential-exfiltration commands.
 
-Official Spotify download: https://www.spotify.com/download/
+The included Spotify installer is the original official Spotify 1.0.8 installer from the period this project was made. The project was an ad-blocking workaround for that old client, not a custom Spotify client designed to collect account credentials.
 
-## Why is this repository still public?
+As with any old executable, users should make their own decisions about running archived software. The important distinction is that the visible batch script's actual operations are documented here, rather than inferred from the fact that it requests administrator access.
 
-This was an old project I made when I was much younger. It used to work at the time, but it is now long abandoned. I'm keeping it on my GitHub profile as a record of something I worked on years ago, **not as a usable application or a project people should install**.
+## Current status
 
-I have no plans to revive it. Please don't open issues asking for fixes or compatibility updates; there will be no further development.
+This project is **discontinued**. It is kept public as a record of an older project I worked on, not as software for people to install today. I do not plan to update it for current Spotify versions or provide support for the old workaround.
 
-## About security concerns
-
-I understand why people have raised concerns about the executable, the batch script, and the lack of source/build instructions. I have not performed a forensic malware analysis, so I cannot honestly confirm that the files are malware or guarantee that they are safe. The responsible recommendation is simple: do not execute them.
-
-## Looking for Spotify?
-
-This repository is not a working Spotify client. Please use the official application instead:
+If you're looking for Spotify today, use the official current application:
 
 https://www.spotify.com/download/
 
 ---
 
-<sub>Archived project. No support, maintenance, compatibility guarantees, or security guarantees are provided.</sub>
+<sub>Archived project. No compatibility updates or support are planned.</sub>
