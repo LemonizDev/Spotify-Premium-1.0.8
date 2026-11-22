@@ -1,85 +1,45 @@
-<h1 align='center'> Spotify-Premium-1.0.8 </h1>
+# Spotify-Premium-1.0.8
 
-<h3 align = 'center'> Welcome to Spotify-Premium 1.0.8 </h3>
+> [!CAUTION]
+> ## ARCHIVED PROJECT — DO NOT INSTALL OR RUN
+>
+> **This project is discontinued, unsupported, and does not work with current versions of Spotify. Do not download, install, execute, or follow the setup instructions in this repository.**
+>
+> This repository is kept online solely as an archive of an old personal project. It is not maintained, and no fixes, updates, security reviews, or support will be provided.
 
-<p align = 'center'> <a href="https://discord.com/invite/CAJWYQBf">
-    <img src="https://discordapp.com/api/guilds/737222740305641472/widget.png?style=shield" alt="Discord Server">
-  </a></p>
+## Important notice
 
+This project dates back to around 2020 and was built around a very old Spotify client (version 1.0.8). Spotify has changed substantially since then. The old client, scripts, and methods documented here are obsolete and should be assumed incompatible with the current Spotify service.
 
-## Instructions:
+The repository has received reports of, among other things:
 
-**Step 1:** Uninstall the spotify you currently have (obvious step).
+- Spotify failing to launch or function correctly.
+- Login and account-interface incompatibilities, including missing or changed sign-in options.
+- Concerns about the distributed executable and the absence of reproducible source/build instructions.
 
-**Step 2:** Open the `Spotify Installer.exe` file and wait for spotify to install.
+These reports are not a forensic determination that the files are malware. Equally, **there is no current security audit or verification here that would justify calling the downloads safe**. Please do not run them.
 
-**Step 3:** Open the `Script_Spotify.bat` file and click on yes when the UAC prompt opens.
+## What you should do
 
-**Step 4:** Hit `Windows + R`, type `appdata` and hit enter.
+- **Do not install or run** `Spotify Installer.exe`, `Script_Spotify.bat`, or any other executable or script from this repository.
+- Do not grant these files administrator privileges.
+- Do not modify your Windows `hosts` file, Spotify installation permissions, or system settings by following the old instructions below.
+- If you previously installed this project, stop using it. Remove the unofficial Spotify installation and install Spotify only from its official website or your operating system's trusted app store. Review any system changes you made while following the old guide and restore them as appropriate.
 
-**Step 5:** Open `Local > Spotify`
+Official Spotify download: https://www.spotify.com/download/
 
-**Step 6:** Create a new folder here called `Update`
+## Why is this repository still public?
 
-**Step 7:** Right click the folder you just created and click on properties.
+This was an old project I made when I was much younger. It used to work at the time, but it is now long abandoned. I am keeping it on my GitHub profile as a record of something I worked on years ago, **not as a usable application or a project people should install**.
 
-**Step 8:** Go to the security tab and click on edit.
+I have no plans to revive it. Please don't open issues asking for fixes or compatibility updates; there will be no further development.
 
-**Step 9:** Deny `Full Control` to each user/group and click `apply`.
+## Issues and security concerns
 
-**Step 10:** Enjoy!
+The issue tracker contains reports about failures, outdated login behaviour, and concerns about the files distributed here. Those concerns are worth taking seriously. This README is intended to make the project's status unmistakable: it is dead, unsupported, and not recommended for use.
 
-### IF THE `SCRIPT_SPOTIFY.bat` ISNT OPENING, PLEASE OPEN NOTEPAD > GO THE THE [SCRIPT'S CODE](https://github.com/LemonizDev/Spotify-Premium-1.0.8/blob/main/Script_Spotify.bat) > PASTE THE CODE IN NOTEPAD > HIT `Ctrl + S` AND SAVE THE FILE AS `Script_Spotify.bat`. After doing this, you can open the file you just created and follow the steps from `Step 4` 
+If you arrived here looking for a working Spotify client, this is not it. Please use the official Spotify application.
 
+---
 
-## Note (date: 06th oct 2023): How to stop using the script
-I'm aware that the script has stopped working as newer versions of spotify have rolled out resulting in your playlists and profile not being shown. If you find yourself in this situation, please follow the instructions below:
-
-https://drive.google.com/file/d/1mqevGxeV4j5bYTbIoVhZ5wvjrg1TmSXW/view?usp=drive_link
-
-path: ```%SystemRoot%\system32\drivers\etc\```
-
-Replacement lines:
-
-```
-0.0.0.0 adclick.g.doublecklick.net
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 http://www.googleadservices.com
-0.0.0.0 pubads.g.doubleclick.net
-0.0.0.0 securepubads.g.doubleclick.net
-```
-## About Spotify:
-With Spotify, you can listen to millions of songs and podcasts for free! Listen to artists you love and enjoy music in any language of your choice!
-
-- Listen to your favourite song, artist, or album
-- Discover and listen to your favourite podcasts across Music, Educational, Games, Lifestyle & Health, and more
-- Make and share your own playlists
-- Choose your preferred languages for music
-- Find music for any mood, genre, or activity
-- Listen to your favourite songs on mobile, tablet, desktop, PlayStation, Chromecast, TV, and Speakers
-
-
-
-## Features:
-Below are some noticeable features which you’ll experience in Spotify.
-
-- Share songs instantly with anyone.
-- Preview music on iOS. 
-- Use private listening to hide your guilty pleasures. 
-- Make a playlist tailored to your running speed. 
-- Link to a specific part of a track.
-- Find out about live gigs. 
-- Listen to podcasts. 
-
-
-## System Requirements For Spotify
-Before you start Spotify free download, make sure your PC meets minimum system requirements.
-
-- Operating System: Windows 7/8/8.1/10.
-- Memory (RAM): 650 MB of RAM required.
-- Hard Disk Space: 212 MB of free space required.
-- Processor: Intel Dual Core processor or later.
-
-
-<h1 align = 'center'> Thank you </h1>
- 
+<sub>Archived project. No support, maintenance, compatibility guarantees, or security guarantees are provided.</sub>
